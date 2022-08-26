@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bossamarcelo&show_icons=true&locale=en" alt="bossamarcelo" /></p>
 
-<p><a href="https://www.buymeacoffee.com/bossamarcelo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bossamarcelo" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/bossamarcelo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bossamarcelo" /></a></p>
 <p align="center">Pode me ajudar comprando um café!</p>
